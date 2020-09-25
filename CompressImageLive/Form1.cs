@@ -96,7 +96,6 @@ namespace CompressImageLive
         {
             using (Image original = Image.FromFile(txtOriginalImgPath.Text))
                 pictureBoxOriginal.Image = Image.FromFile(txtOriginalImgPath.Text);
-
             lblOriginalSize.Text = GetFileSize(txtOriginalImgPath.Text);
         }
 
