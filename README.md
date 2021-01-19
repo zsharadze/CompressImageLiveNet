@@ -10,7 +10,7 @@ This is small application to compress images in live with selected quality. It a
 5. Compressed file is saved in same directory as original with name that ends with _Compressed.jpg.
 6. If you just need application not source you can grab compiled exe from ApplicationExe folder.
 
-![screenshot](https://github.com/user5934951/CompressImageLiveNet/blob/master/Capture.PNG?raw=true)
+![screenshot](https://github.com/zsharadze/CompressImageLiveNet/blob/master/Capture.PNG?raw=true)
 
 ###### About me
 My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia.
